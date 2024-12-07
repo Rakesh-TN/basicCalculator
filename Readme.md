@@ -19,5 +19,7 @@ A simple, responsive, and user-friendly calculator built using **HTML**, **CSS**
 - **CSS3**: Styling the calculator, including grid layouts and responsive design.
 - **JavaScript**: Handling the calculator's logic and interactivity.
 
+---
+
 ## 🌐 Live Demo
    **Basic Calculator** - [Click here](https://rakesh-tn.github.io/basicCalculator/Index.html)
