@@ -20,4 +20,4 @@ A simple, responsive, and user-friendly calculator built using **HTML**, **CSS**
 - **JavaScript**: Handling the calculator's logic and interactivity.
 
 ## 🌐 Live Demo
-    **Basic Calculator** - [Click here](https://rakesh-tn.github.io/basicCalculator/Index.html)
+   **Basic Calculator** - [Click here](https://rakesh-tn.github.io/basicCalculator/Index.html)
